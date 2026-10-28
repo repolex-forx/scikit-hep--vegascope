@@ -1,0 +1,11 @@
+{
+  "org": "scikit-hep",
+  "repo": "vegascope",
+  "versions": [
+    {
+      "commit": "774b2a0fc4624fb38647f1681469ba73e7172c50",
+      "tag": "",
+      "parsed_at": "2026-10-28T14:32:48.502230+00:00"
+    }
+  ]
+}
